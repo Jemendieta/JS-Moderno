@@ -2,7 +2,7 @@
 
 ---
 
-![Curso Moderno de JavaScript](../JS-JPT/Curso-JS-Moderno/assets/img/portada.jpg)
+![Curso Moderno de JavaScript](Curso-JS-Moderno/assets/img/portada.jpg)
 
 ---
 
