@@ -20,4 +20,10 @@
 
 ### Clase 02
 
--
+- Variables:
+  - Exixten tres formas de crear variables en Js:
+  - Var: Ya no se recomienda su uso.
+  - Let: Es la forma recomendada de declarar variables actualmente.
+  - Const: Es una valor que no cambiará, se mantendrá constante a diferencia de var y let, no puede ser reasignado. Siempre deben inicializarce con un valor.
+
+### Clase 03
