@@ -27,3 +27,5 @@
   - Const: Es una valor que no cambiará, se mantendrá constante a diferencia de var y let, no puede ser reasignado. Siempre deben inicializarce con un valor.
 
 ### Clase 03
+
+- Strings o Cadenas de texto:
