@@ -6,7 +6,7 @@
 
 ---
 
-### Clase 01
+### Clase 01 - Introducción.
 
 - Nuestro primer Hola Mundo...!
 - Manejando archivos esternos JS
@@ -18,14 +18,17 @@
   - Usar indentación para tener un código legible.
 - ESlint: para solucionar errores de código, nos ayuda con la sintaxis del lenguaje, podemos usar extensiones de nuestro VSCode.
 
-### Clase 02
+### Clase 02 - Variables: var, let y const.
 
 - Variables:
-  - Exixten tres formas de crear variables en Js:
+  - Existen tres formas de crear variables en Js:
   - Var: Ya no se recomienda su uso.
   - Let: Es la forma recomendada de declarar variables actualmente.
   - Const: Es una valor que no cambiará, se mantendrá constante a diferencia de var y let, no puede ser reasignado. Siempre deben inicializarce con un valor.
 
-### Clase 03
+### Clase 03 - Strings y sus Métodos.
 
-- Strings o Cadenas de texto:
+- Strings o Cadenas de texto y Sus Métodos:
+  - Los strings son datos de tipo texto que se pueden asignar a una variable.
+  - Los métodos nos permiten llevar a cabo una serie de tareas.
+  - Concatenación de los strings, varias formas.
