@@ -7,7 +7,7 @@ console.log(variable.length);
 // .trimpStart()
 console.log(variable.trimStart());
 
-// Eliminar espacios al fina
+// Eliminar espacios al final
 // .trimpEnd()
 console.log(variable.trimEnd());
 

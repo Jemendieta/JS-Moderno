@@ -3,7 +3,7 @@ const usuario = "Jorge Mendieta";
 const usuario2 = "Tatiana Mendieta";
 // cuántas letras tiene mi string
 console.log(usuario.length);
-// El método .lengh nos muestra la cantidad de caracteres que contiene nuestro string
+// La propiedad .lengh nos muestra la cantidad de caracteres que contiene nuestro string
 
 /* .indexOf: nos permite devolver la existencia de un elemento dentro de nuestro string o array
  Si encuentra el elemento buscado devuelve el índice en donde se encuentra empezando en 0
@@ -19,4 +19,4 @@ console.log(usuario.indexOf("Mendieta"));
 console.log(usuario2.includes("Mendieta"));
 
 // Estos métodos de los strings diferencian entre minúsculas y mayúsculas
-// .lenght no hace uso ed paréntesis pues es una propiedad
+// .lenght no hace uso de paréntesis pues es una propiedad

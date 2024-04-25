@@ -13,5 +13,5 @@ console.log(color + " Con un precio de: " + camiseta);
 console.log("El producto " + color + " Tiene un precio de: " + camiseta);
 console.log("El producto ", color, " Tiene un precio de: ", camiseta);
 
-// uso de los template strings o literals, es la form recomendada
+// uso de los template strings o literals, es la forma recomendada
 console.log(`El producto ${color} tiene un precio de ${camiseta}`);
