@@ -32,3 +32,9 @@
   - Los strings son datos de tipo texto que se pueden asignar a una variable.
   - Los métodos nos permiten llevar a cabo una serie de tareas.
   - Concatenación de los strings, varias formas.
+  - Eliminar espacios en blanco.
+  - Reemplazar textos.
+  - Repetir y dividir strings.
+  - Transforma a Mayúsculas y minúsculas.
+
+### Clase 04 - Números en JavaScript.
