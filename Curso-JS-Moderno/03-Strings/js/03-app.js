@@ -14,4 +14,16 @@ console.log("El producto " + color + " Tiene un precio de: " + camiseta);
 console.log("El producto ", color, " Tiene un precio de: ", camiseta);
 
 // uso de los template strings o literals, es la forma recomendada
+// hacemos uso de la comilla invertida
 console.log(`El producto ${color} tiene un precio de ${camiseta}`);
+
+// Los template string nos permiten colocar segmentos de código cómo cadenas de texto
+const ul = `
+    <ul>
+        <li>uno</li>
+        <li>dos</li>
+        <li>tres</li>
+        <li>cuatro</li>
+    </ul>
+`;
+console.log(ul);

@@ -20,3 +20,5 @@ console.log(usuario2.includes("Mendieta"));
 
 // Estos métodos de los strings diferencian entre minúsculas y mayúsculas
 // .lenght no hace uso de paréntesis pues es una propiedad
+
+// NOTA: Las propiedades son características, mienstras que los métodos son acciones o funciones que nos permiten ejecutar algunas tareas.
