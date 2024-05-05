@@ -38,3 +38,10 @@
   - Transforma a Mayúsculas y minúsculas.
 
 ### Clase 04 - Números en JavaScript.
+
+- Los números en JavaScript
+  - Como crear números.
+  - operaciones con números (suma, resta, multiplicación, división y módulo).
+  - Objeto Math, el cual nos permite llevar a cabo una serie de operaciones matemáticas como raiz cuadrada, resondeo de números, valor absoluto, potencia, etc.
+  - Orden de ejecucioón de las operaciones con números.
+  - Métodos y funciones con números: parseInt(), parseFloat(),isInteger().
