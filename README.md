@@ -45,3 +45,11 @@
   - Objeto Math, el cual nos permite llevar a cabo una serie de operaciones matemáticas como raiz cuadrada, resondeo de números, valor absoluto, potencia, etc.
   - Orden de ejecucioón de las operaciones con números.
   - Métodos y funciones con números: parseInt(), parseFloat(),isInteger().
+
+### Clase 05 - Operadores.
+
+- Los operadores nos permiten realizar comparaciones.
+  - Mayor (>) y menor (<) que.
+  - comparador de igualdad == e igualdad estricta (valor y tipo de dato) ===
+  - Typeof para mostrarnos el tipo de dato de nuestras variables
+  - Diferente != y diferente estricto !== (Valr y tipo de dato)
