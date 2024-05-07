@@ -53,3 +53,10 @@
   - comparador de igualdad == e igualdad estricta (valor y tipo de dato) ===
   - Typeof para mostrarnos el tipo de dato de nuestras variables
   - Diferente != y diferente estricto !== (Valr y tipo de dato)
+
+### Clase 06 - Booleans.
+
+- creando boooleans
+- creando booleans con el constructor new
+- comparando booleans con el comparador estricto (===)
+- Buenas prácticas al momento de usar booleans
