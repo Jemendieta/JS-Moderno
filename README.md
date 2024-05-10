@@ -60,3 +60,20 @@
 - creando booleans con el constructor new
 - comparando booleans con el comparador estricto (===)
 - Buenas prácticas al momento de usar booleans
+
+### Clase 07 - Objetos.
+
+- Creacción de objetos
+- Object literal
+- ¿Cómo acceder a los valores de un objeto?
+- Agregar y eliminar valores de un objeto.
+- Asignar valores de una objeto a una variable (Destructuring).
+- Problema con los objetos
+- Métodos de los objetos
+- use strict
+- Congelar objetos y evitar que sean modificados
+- Sellar objetos, evitar agregar y eliminar pero si permitiendo modificar las llaves existentes.
+- Unir dos objetos.
+- this
+- Object Constructor
+- keys, values, entries.
